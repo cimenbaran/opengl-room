@@ -1,5 +1,3 @@
-To run the project, run /build/Debug/quake.exe
-
 It is a simple starter project for learning how OpenGL and shaders work.
 
 Required resources:
